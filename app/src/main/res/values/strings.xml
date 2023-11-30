@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="tasksTextView">Your Tasks</string>
+    <string name="ErrorMsgTextView">Please enter a task!</string>
+    <string name="NoTasksTextView">You have no tasks planned!</string>
+    <string name="AddTaskText">Add a task</string>
+    <string name="TitleText">Title</string>
+    <string name="DescText">Description</string>
+    <string name="SaveText">Save</string>
+    <string name="DeleteText">Delete</string>
+    <string name="CompletedText">Completed</string>
+    <string name="QuickAddButton">Quick add</string>
+    <string name="CreateTaskButton">Quick a new task</string>
+</resources>
